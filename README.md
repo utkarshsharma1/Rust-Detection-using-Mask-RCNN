@@ -6,4 +6,4 @@ Use http://www.robots.ox.ac.uk/~vgg/software/via/via-1.0.6.html to get a JSON fi
 
 I have used transfer learning approach using MASK RCNN to detect corrosion in any image.
 I got this as result. It can get better after proper training with large dataset.
-![Screenshot](test_result.jpg)
+![Screenshot](test_result.JPG)
