@@ -1,4 +1,4 @@
-#Rust-Detection-using-Mask-RCNN#
+# Rust-Detection-using-Mask-RCNN #
 
 I trained using 15 samples. You have increase the no. of samples in order to achieve good results. I took images from https://github.com/anirbankonar123/CorrosionDetector/tree/master/download/rust .
 
